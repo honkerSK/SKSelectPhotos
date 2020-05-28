@@ -1,0 +1,33 @@
+PODS:
+  - Masonry (1.1.0)
+  - SDWebImage (5.4.3):
+    - SDWebImage/Core (= 5.4.3)
+  - SDWebImage/Core (5.4.3)
+  - YYCategories (1.0.4):
+    - YYCategories/no-arc (= 1.0.4)
+  - YYCategories/no-arc (1.0.4)
+  - ZLPhotoBrowser (3.1.4):
+    - SDWebImage
+
+DEPENDENCIES:
+  - Masonry
+  - SDWebImage (~> 5.4.0)
+  - YYCategories
+  - ZLPhotoBrowser (~> 3.1.2)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Masonry
+    - SDWebImage
+    - YYCategories
+    - ZLPhotoBrowser
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  SDWebImage: a7c50c8647259e297447558335df97880905a25e
+  YYCategories: 6bcd4314c6661a561410dce4a793379ebd306abd
+  ZLPhotoBrowser: 638189d99c51f78013c9a0369e385db4a4b9673f
+
+PODFILE CHECKSUM: 751687a04fe4f92fd1f17497615c54a73faec30e
+
+COCOAPODS: 1.9.1
